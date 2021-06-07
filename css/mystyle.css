@@ -21,3 +21,6 @@
 .flex-column {
 	overflow: hidden;
 }
+.dropdown-menu[data-bs-popper] {
+    top: 113%;
+}
