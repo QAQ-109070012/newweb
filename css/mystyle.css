@@ -13,4 +13,8 @@
 .text-white-50 {
 	color: #f0fffecc;
 	background-color: #0000006e;
+	font-family: NSimSun;
+}
+.text-white {
+	font-family: NSimSun;
 }
