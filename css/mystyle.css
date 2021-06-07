@@ -11,7 +11,7 @@
 	color: #dbdbdb
 }
 .text-white-50 {
-	color: #ffffffcc;
+	color: #ffffffcc !important;
 	background-color: #0000006e;
 	font-family: NSimSun;
 }
