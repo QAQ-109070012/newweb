@@ -1,6 +1,5 @@
 .py-5 {
     padding-bottom: 14rem !importan;
-	background-image: url(assets/img/catbackground.png)
 }
 .dropdown-menu-end[data-bs-popper] {
 	right: auto/* rtl:ignore */;
