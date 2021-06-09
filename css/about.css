@@ -19,5 +19,5 @@
     top: 113%;
 }
 .fst-italic { 
-    font-style: none !important;
+    font-style: inherit !important;
 }
