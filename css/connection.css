@@ -26,6 +26,20 @@
     display: flex;
 	justify-content: space-around;
 }
-
+.rounded-circle {
+	border-radius: 20% !important;
+}
+.px-4 {
+    padding-right: 0rem !important;
+    padding-left: 0rem !important;
+    border: 10px double #fff;
+}
+.fst-italic { 
+    font-style: inherit !important;
+}
+.pd-5 {
+	padding-bottom: 1rem;
+	padding-top: 1rem;
+}
 
 	
