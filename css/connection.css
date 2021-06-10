@@ -47,5 +47,7 @@ a {
 a:hover { 
     color: #877224;
 }
-
+.bg-primary {
+    background-color: #b69c7e !important;
+}
 	
