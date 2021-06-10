@@ -41,3 +41,9 @@ h1, .h1 {
 .pd-5 {
 	padding-bottom: 3rem;
 }
+a { 
+    color: #ffae1b;
+}
+a:hover { 
+    color: #43c159;
+}
