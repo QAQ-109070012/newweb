@@ -29,3 +29,8 @@
     background-color: #ffffff80;
     border: 10px solid #ffffff00;
 }
+.px-4 {
+    padding-right: 0rem !important;
+    padding-left: 0rem !important;
+    border: 10px double #fff;
+}
