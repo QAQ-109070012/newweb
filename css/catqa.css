@@ -38,3 +38,6 @@ h1, .h1 {
 .text-muted {
    color: #fff !important;
 }   
+.pd-5 {
+	padding-bottom: 3rem;
+}
