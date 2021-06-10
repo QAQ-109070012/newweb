@@ -32,3 +32,9 @@
 .accordion-body {
     border: 5px double #d1d0b6;
 }
+h1, .h1 {
+    color: #fff;
+}
+.text-muted {
+   color: #fff;
+}   
