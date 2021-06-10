@@ -21,3 +21,11 @@
 .fst-italic { 
     font-style: inherit !important;
 }
+.fw-bolder {
+    border: 7px solid #fff0;
+}
+.text-muted {
+    color: #58493b !important;
+    background-color: #ffffff80;
+    border: 10px solid #ffffff00;
+}
