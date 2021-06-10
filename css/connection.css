@@ -41,5 +41,11 @@
 	padding-bottom: 1rem;
 	padding-top: 1rem;
 }
+a { 
+    color: #ffae1b;
+}
+a:hover { 
+    color: #43c159;
+}
 
 	
