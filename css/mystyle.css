@@ -24,3 +24,8 @@
 .dropdown-menu[data-bs-popper] {
     top: 113%;
 }
+.dropdown-item.active, .dropdown-item:active {
+	color: #1e2125;
+    text-decoration: none;
+    background-color: #e9ecef;
+}
