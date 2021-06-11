@@ -1,0 +1,28 @@
+.py-5 {
+    padding-bottom: 14rem !important;
+}
+.dropdown-menu-end[data-bs-popper] {
+	right: auto/* rtl:ignore */;
+}
+.dropdown-menu {
+	background-color: rgba(33,37,41, 0.8);
+}
+.dropdown-item {
+	color: #dbdbdb
+}
+.text-white-50 {
+	color: #ffffffcc !important;
+	background-color: #0000006e;
+	font-family: NSimSun;
+}
+.text-white {
+	font-family: NSimSun;
+}
+.dropdown-menu[data-bs-popper] {
+    top: 113%;
+}
+.dropdown-item.active, .dropdown-item:active {
+	color: #1e2125;
+    text-decoration: none;
+    background-color: #e9ecef;
+}
