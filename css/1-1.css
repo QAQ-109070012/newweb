@@ -69,3 +69,21 @@ a:hover {
     color: #6c757d !important;
     font-size: 18px;
 }
+.fw-bolder {
+	font-size: 3rem;
+}
+.col-lg-9 {
+    flex: 0 0 auto;
+    width: 75%;
+    padding: 0px 50px;
+}
+.mb-5 {
+    margin-bottom: 2rem !important;
+}
+.fs-5 {
+    font-size: 1.25rem !important;
+    line-height: 2.5rem;
+}
+.mt-5 {
+    margin-top: 2rem !important;
+}
