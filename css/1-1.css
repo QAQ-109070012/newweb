@@ -65,3 +65,7 @@ a {
 a:hover { 
     color: #877224;
 }
+.text-muted {
+    color: #6c757d !important;
+    font-size: 18px;
+}
