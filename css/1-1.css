@@ -26,3 +26,42 @@
     text-decoration: none;
     background-color: #e9ecef;
 }
+.col-lg-3 {
+    flex: 0 0 auto;
+    width: 25%;
+    background-color: #e9e9e9a6;
+    height: min-content;
+}
+.col-xl-4 {
+    flex: 0 0 auto;
+    width: 100%;
+}
+.py-lg-5 {
+    padding-top: 0rem !important;
+    padding-bottom: 0rem !important;
+	background-color: #e9e9e9a6;
+}
+.mt-xl-5 {
+    margin-top: 0rem !important;
+}
+.d-flex {
+    display: flex;
+    flex-direction: column;
+}
+.text-left {
+	line-height: 2rem;
+	 font-size: 1.1rem;
+}
+.text-center {
+    font-size: 1.7rem;
+    padding: 0px 10px;
+    border: 5px dashed #fff;
+	margin-bottom: 10px
+}
+a { 
+    color: #ffae1b;
+	text-decoration: auto;
+}
+a:hover { 
+    color: #877224;
+}
