@@ -47,3 +47,8 @@ a {
 a:hover { 
     color: #39964a;
 }
+.dropdown-item.active, .dropdown-item:active {
+	color: #1e2125;
+    text-decoration: none;
+    background-color: #e9ecef;
+}

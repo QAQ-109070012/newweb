@@ -35,3 +35,8 @@
     padding-left: 0rem !important;
     border: 10px double #fff;
 }
+.dropdown-item.active, .dropdown-item:active {
+	color: #1e2125;
+    text-decoration: none;
+    background-color: #e9ecef;
+}

@@ -50,4 +50,9 @@ a:hover {
 .bg-primary {
     background-color: #b69c7e !important;
 }
+.dropdown-item.active, .dropdown-item:active {
+	color: #1e2125;
+    text-decoration: none;
+    background-color: #e9ecef;
+}
 	
