@@ -76,6 +76,7 @@ a:hover {
 }
 .mt-5 {
     margin-top: 2rem !important;
+	margin-bottom: 1rem;
 }
 .mb-5 {
     margin-bottom: 2rem !important;
@@ -97,4 +98,10 @@ a:hover {
     border-radius: 5%;
     border: 10px double #665b53b5;
     padding: 0rem 1rem;
+}
+.mb-3 {
+    margin-bottom: 1rem !important;
+    border-radius: 2%;
+    padding: 1rem;
+    background-color: #fffdf7a6;
 }
