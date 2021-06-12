@@ -46,14 +46,14 @@
 	 font-size: 1.3rem;
 }
 .text-center {
-    font-size: 1.7rem;
+    font-size: 2rem;
     padding: 0px 10px;
     border: 5px dashed #79706d;
 	margin-bottom: 10px
 }
 a { 
     color: #ffae1b;
-	text-decoration: auto;
+	text-decoration: underline;
 }
 a:hover { 
     color: #877224;
