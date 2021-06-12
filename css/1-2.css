@@ -26,12 +26,6 @@
     text-decoration: none;
     background-color: #e9ecef;
 }
-.col-lg-3 {
-    flex: 0 0 auto;
-    width: 25%;
-    background-color: #e9e9e9a6;
-    height: min-content;
-}
 .col-xl-4 {
     flex: 0 0 auto;
     width: 100%;
@@ -39,7 +33,6 @@
 .py-lg-5 {
     padding-top: 0rem !important;
     padding-bottom: 0rem !important;
-	background-color: #e9e9e9a6;
 }
 .mt-xl-5 {
     margin-top: 0rem !important;
@@ -86,4 +79,25 @@ a:hover {
 }
 .mt-5 {
     margin-top: 2rem !important;
+}
+.mb-5 {
+    margin-bottom: 2rem !important;
+    border-radius: 5%;
+    padding: 1rem;
+    background-color: #fffdf7a6;
+}
+.p-4 {
+    padding: 0rem !important;
+}
+.card {
+	background-color: #fff0;
+}
+.col-lg-3 {
+    flex: 0 0 auto;
+    width: 25%;
+    background-color: #fffcf291;
+    height: min-content;
+    border-radius: 5%;
+    border: 10px double #665b53b5;
+    padding: 0rem 1rem;
 }
